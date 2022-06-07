@@ -1,6 +1,6 @@
 # LG_AI_training
 
-## M1: 2021.10.17 (월)
+## M1: 2022.06.09 (목)
 
 ### 1. Operational Big data
 ### 2. Process Mining Overview
@@ -11,7 +11,7 @@
 #### P2. Auto Process Mining
 #### P3. Process remaining time prediction
 
-## M1: 2021.10.18 (화)
+## M1: 2022.06.10 (금)
 ### 1. Machine Learning and Otptimization
 ### 2.1 Loss Function and Cooperative Learning
 ### 2.2 Optimizer
