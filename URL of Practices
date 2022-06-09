@@ -5,11 +5,11 @@ https://www.youtube.com/watch?v=a7cw8Usxris
 https://www.youtube.com/watch?v=cn2-zAa2tyE
 (24m05s)
 
-
-'log.csv'
+pd.read_csv('/content/gdriv/My Drive/lg실습/data/log.csv')
 대신
-'https://raw.githubusercontent.com/hrbae/LG_AI_training/main/M1_Proces_Innovationby_ML/Practice/log.csv'
+pd.read_csv('https://raw.githubusercontent.com/hrbae/LG_AI_training/main/M1_Proces_Innovationby_ML/Practice/log.csv’)
 입력하세요.
+
 
 
 2. AutoMP
