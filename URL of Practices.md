@@ -46,7 +46,7 @@ https://www.youtube.com/watch?v=TPZMqkVpz9M
 (12m29s)
 
 ## 과제
-온라인 학습을 확용한 시계열 예측
+온라인 학습을 확용한 시계열 예측 [링크](https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/Online%20Learning%20Practice/%EA%B3%BC%EC%A0%9CDay2.md)
 - 제출기한: 2022.06.24 금 18:00
 - 제출처: 김도희 박사과정(kimdohee@pusan.ac.kr)
 
