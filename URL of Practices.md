@@ -46,8 +46,9 @@ https://www.youtube.com/watch?v=TPZMqkVpz9M
 (12m29s)
 
 ## 과제
-- 제출기한:
-- 제출처:
+온라인 학습을 확용한 시계열 예측
+- 제출기한: 2022.06.24 금 18:00
+- 제출처: 김도희 박사과정(kimdohee@pusan.ac.kr)
 
 ## Old(2021)
 
