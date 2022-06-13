@@ -12,4 +12,7 @@
 ## 참고1. 데이터 설명
 - SCFI 데이터는 Sanhai Containerized Freight Index로 상하이 컨테이너 운임지수 데이터입니다. 컨테이너선의 운임을 나타내는 대표 지표 중 하나이며 코로나19 발생 이후 급상승한 데이터입니다. 온라인 학습을 통해 급변동하고 새로 추가될 데이터에 대해 배치학습보다 잘 반응한다는 것을 보여줄 수 있는 데이터니 참고해주세요.
 
+## 참고2. 데이터 로드
+- pd.read_csv('https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/Online%20Learning%20Practice/SCFI_data.csv')
+
 ![KakaoTalk_20220610_113020333](https://user-images.githubusercontent.com/58931222/172979071-277205b7-5953-4e7c-90b1-a528484ac4cf.png)
