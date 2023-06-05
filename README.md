@@ -1,6 +1,6 @@
 # LG_AI_training
 
-## M1: 2022.06.09 (목)
+## M1: 2023.06.08 (목)
 
 ### 1. Operational Big data
 ### 2. Process Mining Overview
@@ -11,15 +11,11 @@
 #### P2. Auto Process Mining
 #### P3. Process remaining time prediction
 
-## M2: 2022.06.10 (금)
-### 1. Machine Learning and Otptimization
-### 2.1 Loss Function and Cooperative Learning
-### 2.2 Optimizer
-### 3.1 Smapling based optimization
+## M2: 2023.06.09 (금)
+### 1. Machine Learning and Optimization overview
+### 2. Loss Function and Metric Learning
+### 3.1 Smapling based inference
 ### 3.2 Bayesian optimization
-### 4. On-line learning
-### 5. Reinforcement Learning and Optimization
-
 
 #### P1. Deep Learning Parameter Tuning
 #### P2. On-line Learning
