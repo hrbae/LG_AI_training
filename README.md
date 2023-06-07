@@ -16,6 +16,6 @@
 ### 3.1 Smapling based inference
 ### 3.2 Bayesian optimization
 
-#### P1. Deep Learning Parameter Tuning
-#### P2. On-line Learning
-#### P3. Reinforcment Learning experience replay
+#### P1. OR Tools - Constraint & Mathematical programming
+#### P2. Reinforcement Learning - Path Finding / Scheduling
+#### P3. Metric Learning - Contrastive Learning
