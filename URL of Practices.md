@@ -19,7 +19,7 @@
 - [실습자료](https://github.com/hrbae/LG_AI_training/tree/main/old/2022/M1_Proces_Innovationby_ML/Practice)
 
 ## 과제
-프로세스 모델 만들기 [링크](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/Practice/%EA%B3%BC%EC%A0%9C_2022-06-09.md)
+프로세스 모델 만들기 [링크](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/%EA%B3%BC%EC%A0%9CDay1.md)
 - 제출기한: 2022.06.15 목 18:00
 - 제출처: 박사과정 김도희 (doheeeeekim@gmail.com)
 
