@@ -7,7 +7,7 @@
 ### 3. Process Mining and Machine Learning
 
 #### P1. Process minig with Python
-#### P2. Auto Process Mining
+#### P2. Process discovery 
 #### P3. Process remaining time prediction
 
 ## M2: 2023.06.09 (금)
