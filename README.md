@@ -3,9 +3,8 @@
 ## M1: 2023.06.08 (목)
 
 ### 1. Operational Big data
-### 2. Process Mining Overview
-### 3. Data Quality for service improvement
-### 4. Machine Learning and Process Mining
+### 2. Process Mining Theory
+### 3. Process Mining and Machine Learning
 
 #### P1. Process minig with Python
 #### P2. Auto Process Mining
