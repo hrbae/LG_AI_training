@@ -7,7 +7,7 @@
 ### 3. Process Mining and Machine Learning
 
 #### [P1. Process minig with Python](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/Practice_1_1_Process_mining_with_Python.ipynb)
-#### P2. Process discovery 
+#### [P2. Process discovery](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/Practice_1_2_Process_Discovery.ipynb)
 #### P3. Process remaining time prediction
 
 ## M2: 2023.06.09 (금)
