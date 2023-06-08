@@ -3,17 +3,13 @@
 ## 1. Process Mining using Python
 - [실습자료](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/Practice_1_1_Process_mining_with_Python.ipynb)
 
-- https://www.youtube.com/watch?v=a7cw8Usxris
-(24m20s)
-
-- https://www.youtube.com/watch?v=cn2-zAa2tyE
-(24m05s)
 
 ## 2. Process Discovery
 - [실습자료](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/Practice_1_2_Process_Discovery.ipynb)
 
 ## 3. Process Remaining Time Prediction
-
+- [실습자료](https://github.com/hrbae/LG_AI_training/blob/main/M1_Proces_Innovationby_ML/Practice_1_3_Remaining_Time_Prediction.ipynb)
+- [동영상](https://studio.youtube.com/video/e3BhuB8d01M/edit)
 
 ### old(2022)
 - [실습자료](https://github.com/hrbae/LG_AI_training/tree/main/old/2022/M1_Proces_Innovationby_ML/Practice)
