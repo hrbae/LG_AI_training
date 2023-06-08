@@ -16,6 +16,6 @@
 ### 2.2 Bayesian optimization
 ### 3. Loss Function and Metric Learning
 
-#### [P1. OR Tools - Constraint & Mathematical programming] (https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/LG_Day2_Operational%20Research_Practice.ipynb)
-#### [P2. Reinforcement Learning - Path Finding / Scheduling] (https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/LG_Day2_Reinforcement%20Learning_Practice.ipynb)
-#### [P3. Metric Learning - Contrastive Learning] (https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/LG_Day2_Metric%20Learning.ipynb)
+#### [P1. OR Tools - Constraint & Mathematical programming](https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/LG_Day2_Operational%20Research_Practice.ipynb)
+#### [P2. Reinforcement Learning - Path Finding / Scheduling](https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/LG_Day2_Reinforcement%20Learning_Practice.ipynb)
+#### [P3. Metric Learning - Contrastive Learning](https://github.com/hrbae/LG_AI_training/blob/main/M2_System%20Optimization%20by%20ML/LG_Day2_Metric%20Learning.ipynb)
