@@ -1,5 +1,7 @@
 # LG_AI_training
 
+## 6월16일 기말고사 준비: 1. Process Discovery 알고리즘 종류, Heuristic mining에서 dependency계산법, Token based repaly방식으로 fitness계산하기, 2. KL(p||q) 값 계산하기
+
 ## M1: 2023.06.08 (목)
 
 ### 1. Operational Big data
